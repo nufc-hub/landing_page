@@ -12,3 +12,4 @@
 10. {fourth} Make a container for elements, including button.
 11, {fourth} Make a container for the two separate text elements. Make a container for the button.
 11. {fifth} Center and align footer.
+12. Link to site: https://nufc-hub.github.io/landing_page
